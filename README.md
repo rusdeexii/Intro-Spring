@@ -11,7 +11,7 @@ This project is a Spring Boot application aimed at demonstrating basic functiona
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Intro-Spring.git
+   git clone https://github.com/rusdeexii/Intro-Spring.git
 2. cd Intro-Spring
 3. ./mvnw spring-boot:run
 
